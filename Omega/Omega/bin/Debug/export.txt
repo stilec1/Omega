@@ -1,0 +1,24 @@
+auta-2;BMW;2014;450 000;250;Žádné nehody, pravidelně servisované
+auta-3;Toyota;2019;320 000;150;1 majitel, nehodové, kompletní servisní historie
+auta-4;Audi;2017;550 000;300;2 majitelé, bez nehod, servisováno pouze v autorizovaném servisu
+auta-5;Brod;2012;150 000;120;3 majitelé, malé škrábance na karoserii, pravidelná údržba
+auta-6;Honda;2020;380 000;180;1 majitel, žádné nehody, garážované, servisováno výhradně v autorizovaném servisu
+auta-7;Mercedes;2019;800 000;450;1 majitel, kompletní servisní historie, nehodové
+auta-9;pipo;2003;10000000;750;Nepotrebny
+auta-10;skoda;2015;250000;150;garazovane
+auta-17;fffff;fffffffffffffffd;dd;fffff;fffff
+motorky-1;Honda;CBR600RR;2022;Modrá;350000;0;1
+motorky-2;Kawasaki;Ninja ZX-10R;2019;Zelená;290000;15000;2
+motorky-3;Suzuki;GSX-R1000;2018;Červená;280000;20000;1
+motorky-4;Yamaha;YZF-R6;2021;Černá;320000;5000;1
+motorky-5;BMW;S1000RR;2020;Bílá;380000;7000;1
+nakladaky-1;MAN;TGX 26,540;26;2 500 000;2018;Motorová nafta
+nakladaky-2;Volvo;FH16 750;25;3 200 000;2019;Motorová nafta
+nakladaky-3;DAF;XF 530;24;2 750 000;2020;Motorová nafta
+nakladaky-4;Scania;R 500;26;2 850 000;2017;Motorová nafta
+nakladaky-5;Mercedes-Benz;Actros 2551;25;2 900 000;2021;Motorová nafta
+nakladaky-6;Renault;T 460;26;2 650 000;2019;Motorová nafta
+nakladaky-7;Iveco;Stralis XP;26;2 550 000;2020;Motorová nafta
+nakladaky-8;MAN;TGS 26.420;26;2 400 000;2016;Motorová nafta
+nakladaky-9;Volvo;FMX 500;32;3 500 000;2016;Motorová nafta
+nakladaky-10;DAF;CF 430;18;2 100 000;2021;Motorová nafta
